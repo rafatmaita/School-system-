@@ -67,7 +67,6 @@
   }
   form {
     width: 500px;
-    margin: 0 auto;
   }
   input {
     width: 100%;
@@ -88,3 +87,17 @@
   table, th, td {
     border: 1px solid;
   }
+  .cont{
+display: flex;
+justify-content: space-around;
+
+
+  }
+  tr,td{
+    width: 140px;
+    height: 30px;
+    text-align: center;
+  }
+
+
+  
